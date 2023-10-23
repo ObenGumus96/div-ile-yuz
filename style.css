@@ -1,0 +1,64 @@
+.yuz{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    background-color: chocolate;
+}
+
+.goz1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    left: 80px;
+    top: 100px;
+    background-color: white;
+}
+
+.goz2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    right: 80px;
+    top: 100px;
+    background-color: white;
+}
+
+.bebek1{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    left: 25px;
+    top: 20px;
+    background-color: green;
+}
+
+.bebek2{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    left: 25px;
+    top: 20px;
+    background-color: green;
+}
+
+.agız{
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 20px;
+    border-radius: 50%;
+    background-color: red;
+}
